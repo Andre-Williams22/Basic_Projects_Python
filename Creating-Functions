@@ -1,0 +1,9 @@
+
+def hello(name):
+	print('Hello' + name)
+
+
+hello(' Andre')
+hello(' Sydney')
+hello(' Symia')
+hello(' What nice names !!!')
