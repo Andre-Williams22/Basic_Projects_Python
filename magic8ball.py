@@ -1,4 +1,5 @@
 import random
+question = str(input("Ask a question about your future: "))
 def getAnswer(answerNumber):
 	if answerNumber == 1:
 		return 'It is certain'
